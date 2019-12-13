@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageZoomPOC</string>
+    <string name="test_zooming_in_and_out">Test zooming in and out</string>
+</resources>
